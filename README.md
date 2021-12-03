@@ -1,5 +1,6 @@
 # TI-City-Model
 
+
 ### What is it?
 The repository contains an urban expansion model developed to predict future residential development in an African city.
 The model, which is named TI-City, combines agent-based and cellular automata modelling techniques to predict the geospatial behaviour of key urban development actors, including households, real estate developers and government.
@@ -7,6 +8,13 @@ The model, which is named TI-City, combines agent-based and cellular automata mo
 To demonstrate the utility of the model, it has been applied to Accra city-region, Ghana, which is one of the largest city-regions in Africa. See Agyemang et al (2021) for the underlying paper.
 
 The model can be useful to African urban studies scholars, environmental and climate scientists, as well as city planners and urban policy makers in Africa.
+
+The model is implemented in NetLogo programming platform.
+
+The "TI-Model.zip" file contains the model and data for Accra. There are two versions of the model:
+- "TI-City_validation", which contains parameterization used to validate the model; and
+- "TI-City_prediction2030", which contains parameterization used to predict urban expansion of Accra up to 2030.
+
 
 ### How it works
 
@@ -56,12 +64,14 @@ The spatial resolution of the model as applied to Accra is 200m. This is about 5
 
 To adapt the model to any other city, consider the spatial resolution of the data and the extent to which is enlarges or reduces actual sizes of land parcels. Like the case of Accra, this could influence the number of households and real estate developers to simulate.
 
+
 #### Key for income status predictions:
 0 = undeveloped lands;
 1 = Low income;
 2 = Middle income;
 3 = High income;
 4 = seed year built-up.
+
 
 #### Key for legal status predictions:
 0 = undeveloped lands;
@@ -86,7 +96,6 @@ Integrate residential relocation and densification (vertical development) into t
 Weight the influence of slope by the socio-economic characteristics of neighbourhoods and prospective inhabitants.
 
 
-
 ### Related model
 
 SLEUTH
@@ -95,7 +104,6 @@ SLEUTH
 ### How to cite it
 
 Agyemang, F.S., Silva, E., & Fox, S. (2021). Modelling and simulating ‘informal urbanization’: An integrated ABM and CA model of urban residential growth in Ghana. Accepted for publication in Environment and Planning B.
-
 
 
 ### References
