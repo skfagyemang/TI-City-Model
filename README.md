@@ -5,7 +5,7 @@
 The repository contains an urban expansion model developed to predict future residential development in an African city.
 The model, which is named TI-City, combines agent-based and cellular automata modelling techniques to predict the geospatial behaviour of key urban development actors, including households, real estate developers and government.
 
-To demonstrate the utility of the model, it has been applied to Accra city-region, Ghana, which is one of the largest city-regions in Africa. See Agyemang et al (2021) for the underlying paper.
+To demonstrate the utility of the model, it has been applied to Accra city-region, Ghana, which is one of the largest city-regions in Africa. See Agyemang et al. (2022) for the underlying paper.
 
 The model can be useful to African urban studies scholars, environmental and climate scientists, as well as city planners and urban policy makers in Africa.
 
@@ -103,12 +103,12 @@ SLEUTH
 
 ### How to cite it
 
-Agyemang, F.S., Silva, E., & Fox, S. (2021). Modelling and simulating ‘informal urbanization’: An integrated ABM and CA model of urban residential growth in Ghana. Accepted for publication in Environment and Planning B.
+Agyemang, F.S., Silva, E., & Fox, S. (2022). Modelling and simulating ‘informal urbanization’: An integrated ABM and CA model of urban residential growth in Ghana. Accepted for publication in Environment and Planning B.
 
 
 ### References
 
-Agyemang, F.S., Silva, E., & Fox, S. (2021). Modelling and simulating ‘informal urbanization’: An integrated ABM and CA model of urban residential growth in Ghana. Accepted for publication in Environment and Planning B.
+Agyemang, F.S., Silva, E., & Fox, S. (2022). Modelling and simulating ‘informal urbanization’: An integrated ABM and CA model of urban residential growth in Ghana. Accepted for publication in Environment and Planning B.
 
 Clarke, K. C., Hoppen, S., & Gaydos, L. (1997). A self-modifying cellular automaton model of historical urbanization in the San Francisco Bay area. Environment and Planning B: Planning and Design, 24(2), 247-261.
 
